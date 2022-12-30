@@ -5,14 +5,16 @@ You can click the Preview link to take a look at your changes.
 
 ## Hi there, I'm [@maldins46](https://www.riccardomaldini.it)!
 
-My name is [Riccardo Maldini](https://www.riccardomaldini.it) and I am an MSc from the [University of Cesena](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche) and [University of Urbino](https://informatica.uniurb.it/triennale), in Italy. In my degree course, I've focused on data science, even if, as a tech enthusiast, everything concerting quality good code excites me 👨‍💻 You can find more of my work on [my official website](https://www.riccardomaldini.it).
+My name is [Riccardo Maldini](https://www.riccardomaldini.it) and I am an MSc from the [University of Cesena](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche) and [University of Urbino](https://informatica.uniurb.it/triennale), in Italy. In my degree course, I've focused on data science, even if, as a tech enthusiast, everything concerting quality good code excites me 👨‍💻 
+
+Oh and also, proud ![Tesla](https://aleen42.github.io/badges/src/tesla.svg) fan!
+
 
 At the moment, I'm working as a Backend Engineer and Data Engineer at [MDOTM Ltd](https://www.mdotm.eu). As such, my daily-use technological stack includes Java, Spring Boot, Maven, MySQL, MongoDB and Python.
 
 I am a tech enthusiast, particularly interested in the latest innovations concerning the Android Ecosystem. 
 A personal hobby that I like to carry on in my free time is Mobile and Web Programming. As such, I've worked also with JavaScript/TypeScript, Angular, Node, Kotlin for Android Studio, Flutter and AdobeXD for graphics and mocking.
 
-Proud ![Tesla](https://aleen42.github.io/badges/src/tesla.svg) fan here!
 
 ### Using daily:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
