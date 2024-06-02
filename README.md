@@ -5,10 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Hi there, I'm [@maldins46](https://www.riccardomaldini.it)!
 
-My name is [Riccardo Maldini](https://www.riccardomaldini.it) and I am an MSc from the [University of Cesena](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche) and [University of Urbino](https://informatica.uniurb.it/triennale), in Italy. In my degree course, I've focused on data science, even if, as a tech enthusiast, everything concerting quality good code excites me 👨‍💻 
-
-Oh and also, proud ![Tesla](https://aleen42.github.io/badges/src/tesla.svg) fan!
-
+My name is [Riccardo Maldini](https://www.riccardomaldini.it) and I am an MSc from the [University of Cesena](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche) and [University of Urbino](https://informatica.uniurb.it/triennale), in Italy. In my degree course, I've focused on data science, even if, as a tech enthusiast, everything concerting quality good code excites me 👨‍💻
 
 At the moment, I'm working as a Backend Engineer and Data Engineer at [MDOTM Ltd](https://www.mdotm.eu). As such, my daily-use technological stack includes Java, Spring Boot, Maven, MySQL, MongoDB and Python.
 
