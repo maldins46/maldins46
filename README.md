@@ -12,6 +12,8 @@ At the moment, I'm working as a Backend Engineer and Data Engineer at [MDOTM Ltd
 I am a tech enthusiast, particularly interested in the latest innovations concerning the Android Ecosystem. 
 A personal hobby that I like to carry on in my free time is Mobile and Web Programming. As such, I've worked also with JavaScript/TypeScript, Angular, Node, Kotlin for Android Studio, Flutter and AdobeXD for graphics and mocking.
 
+You can find my updated CV [in the dedicated repo](https://github.com/maldins46/MaldiniCV)!
+
 
 ### Using daily:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
